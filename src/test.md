@@ -3,4 +3,4 @@
 这辈子再学一次-20200924 ~ 2 ~ 使用 commit 改变 HEAD
 
 
-rebase~~
+merge~~~~
